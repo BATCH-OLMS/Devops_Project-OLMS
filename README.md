@@ -57,7 +57,7 @@ Authentication Service is part of Online Learning Management System. It is built
 
 * Sequence:
 
-1. User opens the webpage and click on ‘Login’
+1. User opens the webpage and click on the 'login'
 2. Login page appears
 3. User supplies Online LMS user-ID and password
 4. Page indicates that the Online LMS user-ID is yet to be activated.
