@@ -220,7 +220,7 @@ Authentication Service is part of Online Learning Management System. It is built
 
 * Post Condition:
 
-1. User should not be able to login to Online LMS with activating the ID again.
+1. User should not be able to login to Online Learning Management System with activating the ID again.
 2. Back button or bookmarks fail to open any of the login-protected pages of the web app
 
 * Exceptions:
