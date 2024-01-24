@@ -24,7 +24,7 @@ Authentication Service is part of Online Learning Management System. It is built
 
 * Sequence:
 
-1. User opens the webpage and click on 'Register'.
+1. User opens the webpage and click on "Register".
 2. Registration page appears.
 3. User supplies the name, a working email-id and the preferred password.
 4. Page displays a message to check e-mail and prompts for activation code.
