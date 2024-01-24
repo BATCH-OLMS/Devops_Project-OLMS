@@ -140,7 +140,7 @@ Authentication Service is part of Online Learning Management System. It is built
 
 * Pre Condition:
 
-1. User should have logged into Online LMS
+1. User should have logged into Online Learning Management System
 
 * Input:
 
